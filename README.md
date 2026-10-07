@@ -15,7 +15,7 @@ Older versions and release notes: [Releases](https://github.com/mgoodchild2025/n
 
 ## Installing
 
-**macOS:** open the DMG and drag Netmon to Applications. The app isn't notarized by Apple yet, so the first time you open it, right-click (or Control-click) Netmon in Applications, choose **Open**, then **Open** again. If macOS still blocks it, go to System Settings → Privacy & Security and click **Open Anyway**.
+**macOS:** open the DMG and drag Netmon to Applications, then open it from there. Netmon is signed and notarized by Apple, so it opens normally. Allow **Local Network** access when asked (for monitoring and device discovery) and **Location** for the Netmon Wi-Fi Scanner (macOS only shows Wi-Fi network names to apps with Location access).
 
 **Windows:** unzip and put `Netmon.exe` in a permanent folder (for example `Documents\Netmon`), not inside the zip, so it can update itself. If SmartScreen appears, click **More info → Run anyway**.
 
